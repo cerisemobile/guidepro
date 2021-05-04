@@ -2,80 +2,87 @@
   "GuideData": {
     "AdsController": [
       {
-        "NetworkAds": "x",
-        "AdMobId": "pub-2966437819702132",
+        "NetworkAds": "facebook",
+        "AdMobId": "pub-3940256099942544",
 
-        "BannerAdmob": "ca-app-pub-2966437819702132/8144212543",
-        "InterstitialAdmob": "ca-app-pub-2966437819702132/1578804192",
-        "NativeAdmob": "ca-app-pub-2966437819702132/6639559183",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 
-        "BannerFacebook": "149992636965203_149993730298427",
-        "InterstitialFacebook": "149992636965203_149994836964983",
-        "NativeFacebook": ""
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+
       }
     ],
     "apps": [
       {
-        "title": "Friday Night Funkin Music",
-        "image": "https://play-lh.googleusercontent.com/vYUwXJAqQbYuoGKcxv8JxdDzAeY-7jOsZPo1uwazicJJcGndBLsXMLcJqp2hfKd2a_s=s180-rw",
-        "id": "com.elhadev.fridaynightfunkin.guideforapp"
+        "title": "WhatsApp Business",
+        "image": "https://lh3.googleusercontent.com/ebs6ftYUkOKlDY0M174OpvargwbDyHUVAnO_G5aE0dL5GBQKCtfh3adN5H3ZMThXogDi=s180-rw",
+        "id": "com.whatsapp.w4b"
       },
       {
-        "title": "Walkthrough For Hi Neighbor Alpha 2021\n",
-        "image": "https://play-lh.googleusercontent.com/_ChzdTeNX5Z4IjSWFx0VYpmQt47ipFET2gD4kn7trTV2jOtAGm2cJgixyTfGllRm-uYz=s180-rw",
-        "id": "com.elhadev.HelloMyNeighborAlpha.guideforapp"
+        "title": "ReadEra Premium - book reader pdf, epub, word\n",
+        "image": "https://lh3.googleusercontent.com/cbI_01jZP7oWKBa8I5yeLDoR-HEYkB_urY1KYJ27d6XeY78G70HTN3O_9z1nov75d2Tm=s180-rw",
+        "id": "org.readera.premium"
       },
       {
-        "title": "Hotstar Cricket Live TV Shows\n ",
-        "image": "https://play-lh.googleusercontent.com/lXr6nJ-FD9TFHTrKQm47_FYllMnQi1ZeYFdyHUidb6Ne097sXcYffdEmHyipKDltpbr9=s180-rw",
-        "id": "com.elhadev.livecrickettv.guideforapp"
+        "title": "Moon+ Reader\n ",
+        "image": "https://lh3.googleusercontent.com/DSZo9j5cd46iHJNg1WvqQUfxdOiufs4LEnKuwmiY4wzYS-enODO4pYQOEc9auExxkQ=s180-rw",
+        "id": "com.flyersoft.moonreader"
+      },
+      {
+        "title": "Calorie Counter - MyFitnessPal",
+        "image": "https://lh3.googleusercontent.com/WkGXEesGEu4ayZctjADlDKdscS3Ve1hmoVzhHQYh9NuK9QpDA3Rx6ae3jg7VH2dFZqk=s180-rw",
+        "id": "com.myfitnesspal.android"
+      },
+      {
+        "title": "WhatsApp Business",
+        "image": "https://lh3.googleusercontent.com/ebs6ftYUkOKlDY0M174OpvargwbDyHUVAnO_G5aE0dL5GBQKCtfh3adN5H3ZMThXogDi=s180-rw",
+        "id": "com.whatsapp.w4b"
+      },
+      {
+        "title": "ReadEra Premium - book reader pdf, epub, word\n",
+        "image": "https://lh3.googleusercontent.com/cbI_01jZP7oWKBa8I5yeLDoR-HEYkB_urY1KYJ27d6XeY78G70HTN3O_9z1nov75d2Tm=s180-rw",
+        "id": "org.readera.premium"
+      },
+      {
+        "title": "Moon+ Reader\n ",
+        "image": "https://lh3.googleusercontent.com/DSZo9j5cd46iHJNg1WvqQUfxdOiufs4LEnKuwmiY4wzYS-enODO4pYQOEc9auExxkQ=s180-rw",
+        "id": "com.flyersoft.moonreader"
       },
       {
         "title": "Calorie Counter - MyFitnessPal",
         "image": "https://lh3.googleusercontent.com/WkGXEesGEu4ayZctjADlDKdscS3Ve1hmoVzhHQYh9NuK9QpDA3Rx6ae3jg7VH2dFZqk=s180-rw",
         "id": "com.myfitnesspal.android"
       }
-
     ],
 
     "items": [
       {
-        "title": "How to get a Hotstar premium free trial?",
-        "image": "https://cdn.iconscout.com/icon/free/png-128/hotstar-new-logo-2172931-1820229.png"
+        "title": "Lorem ipsum dolor sit amet",
+        "image": "https://placekitten.com/70/71"
       },
       {
-        "title": " Hotstar Premium Free Account  -  Watch IPL 2020 Online On Hotstar ",
-        "image": "https://cdn.iconscout.com/icon/free/png-128/hotstar-new-logo-2172931-1820229.png"
+        "title": " consectetur adipiscing elit",
+        "image": "https://placekitten.com/70/72"
       },
       {
-        "title": "1. Watch Disney+ Hotstar Premium free - With Jio Tv ",
-        "image": "https://cdn.iconscout.com/icon/free/png-128/hotstar-new-logo-2172931-1820229.png"
+        "title": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "image": "https://placekitten.com/70/73"
       },
       {
-        "title": "How to get Hotstar Premium for free with Jio? ",
-        "image": "https://cdn.iconscout.com/icon/free/png-128/hotstar-new-logo-2172931-1820229.png"
+        "title": "Lorem ipsum dolor sit amet",
+        "image": "https://placekitten.com/70/74"
       },
       {
-        "title": " Get Disney+ Hotstar Free with Jio Recharge ",
-        "image": "https://cdn.iconscout.com/icon/free/png-128/hotstar-new-logo-2172931-1820229.png"
+        "title": " consectetur adipiscing elit",
+        "image": "https://placekitten.com/70/75"
       },
       {
-        "title": "2. Get Disney+ Hotstar Free with Airtel Recharge ",
-        "image": "https://cdn.iconscout.com/icon/free/png-128/hotstar-new-logo-2172931-1820229.png"
-      },
-            {
-        "title": "Stream Hotstar Premium free - With Airtel Tv  ",
-        "image": "https://cdn.iconscout.com/icon/free/png-128/hotstar-new-logo-2172931-1820229.png"
-      },
-                  {
-        "title": "5. Hotstar Premium Free Trial  ",
-        "image": "https://cdn.iconscout.com/icon/free/png-128/hotstar-new-logo-2172931-1820229.png"
-      },
-                  {
-        "title": "How to get Hotstar Premium Account for Free? ",
-        "image": "https://cdn.iconscout.com/icon/free/png-128/hotstar-new-logo-2172931-1820229.png"
+        "title": "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "image": "https://placekitten.com/70/76"
       }
-  
     ],
 
     "content1": [
@@ -87,8 +94,8 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Hotstar Guide 2021 :",
-        "isNative": "true"
+        "text": "Lorem ipsum dolor sit amet",
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -97,8 +104,8 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://images.freekaamaal.com/post_images/1601020427.png",
-        "text": "",
+        "image_link": "https://placekitten.com/350/250",
+        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
         "isNative": "true"
       }
     ],
@@ -112,7 +119,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Hotstar Guide 2021 :",
+        "text": "Lorem ipsum dolor sit amet",
         "isNative": "false"
       },
       {
@@ -122,13 +129,13 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://images.freekaamaal.com/post_images/1601020427.png",
-        "text": "",
+        "image_link": "https://placekitten.com/350/251",
+        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
         "isNative": "true"
       }
     ],
 
-    "content3": [
+    "conten3": [
       {
         "ordered": "image_text",
         "color": "#000000","style": "bold",
@@ -137,8 +144,8 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Hotstar Guide 2021 :",
-        "isNative": "true"
+        "text": "Lorem ipsum dolor sit amet",
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -147,8 +154,8 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://images.freekaamaal.com/post_images/1601020427.png",
-        "text": "",
+        "image_link": "https://placekitten.com/350/252",
+        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
         "isNative": "true"
       }
     ],
@@ -162,7 +169,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "",
+        "text": "Lorem ipsum dolor sit amet",
         "isNative": "false"
       },
       {
@@ -172,8 +179,8 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://images.freekaamaal.com/post_images/1601020427.png",
-        "text": "",
+        "image_link": "https://placekitten.com/350/253",
+        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
         "isNative": "true"
       }
     ],
@@ -187,8 +194,8 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Hotstar Guide 2021 :",
-        "isNative": "true"
+        "text": "Lorem ipsum dolor sit amet",
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
@@ -197,9 +204,9 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://images.freekaamaal.com/post_images/1601020427.png",
-        "text": "",
-        "isNative": "false"
+        "image_link": "https://placekitten.com/350/254",
+        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "isNative": "true"
       }
     ],
 
@@ -212,7 +219,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Hotstar Guide 2021 :",
+        "text": "Lorem ipsum dolor sit amet",
         "isNative": "false"
       },
       {
@@ -222,88 +229,11 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://images.freekaamaal.com/post_images/1601020427.png",
-        "text": "",
-        "isNative": "true"
-      }
-    ],
-    
-    "content7": [
-      {
-        "ordered": "image_text",
-        "color": "#000000","style": "bold",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "Hotstar Guide 2021 :",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#000000","style": "normal",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://images.freekaamaal.com/post_images/1601020427.png",
-        "text": "",
-        "isNative": "false"
-      }
-    ],
-
-    "content8": [
-      {
-        "ordered": "image_text",
-        "color": "#000000","style": "bold",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "Hotstar Guide 2021 :",
-        "isNative": "true"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#000000","style": "normal",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://images.freekaamaal.com/post_images/1601020427.png",
-        "text": "",
-        "isNative": "false"
-      }
-    ],
-
-    "content9": [
-      {
-        "ordered": "image_text",
-        "color": "#000000","style": "bold",
-        "gravity": "left",
-        "left": "10",
-        "text_size": "25",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "Hotstar Guide 2021 :",
-        "isNative": "false"
-      },
-      {
-        "ordered": "image_text",
-        "color": "#000000","style": "normal",
-        "gravity": "left",
-        "left": "5",
-        "text_size": "20",
-        "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://images.freekaamaal.com/post_images/1601020427.png",
-        "text": "",
+        "image_link": "https://placekitten.com/350/255",
+        "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
         "isNative": "true"
       }
     ]
 
-
   }
-  
 }
