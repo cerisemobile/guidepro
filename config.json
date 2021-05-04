@@ -1,0 +1,309 @@
+{
+  "GuideData": {
+    "AdsController": [
+      {
+        "NetworkAds": "x",
+        "AdMobId": "pub-2966437819702132",
+
+        "BannerAdmob": "ca-app-pub-2966437819702132/8144212543",
+        "InterstitialAdmob": "ca-app-pub-2966437819702132/1578804192",
+        "NativeAdmob": "ca-app-pub-2966437819702132/6639559183",
+
+        "BannerFacebook": "149992636965203_149993730298427",
+        "InterstitialFacebook": "149992636965203_149994836964983",
+        "NativeFacebook": ""
+      }
+    ],
+    "apps": [
+      {
+        "title": "Friday Night Funkin Music",
+        "image": "https://play-lh.googleusercontent.com/vYUwXJAqQbYuoGKcxv8JxdDzAeY-7jOsZPo1uwazicJJcGndBLsXMLcJqp2hfKd2a_s=s180-rw",
+        "id": "com.elhadev.fridaynightfunkin.guideforapp"
+      },
+      {
+        "title": "Walkthrough For Hi Neighbor Alpha 2021\n",
+        "image": "https://play-lh.googleusercontent.com/_ChzdTeNX5Z4IjSWFx0VYpmQt47ipFET2gD4kn7trTV2jOtAGm2cJgixyTfGllRm-uYz=s180-rw",
+        "id": "com.elhadev.HelloMyNeighborAlpha.guideforapp"
+      },
+      {
+        "title": "Hotstar Cricket Live TV Shows\n ",
+        "image": "https://play-lh.googleusercontent.com/lXr6nJ-FD9TFHTrKQm47_FYllMnQi1ZeYFdyHUidb6Ne097sXcYffdEmHyipKDltpbr9=s180-rw",
+        "id": "com.elhadev.livecrickettv.guideforapp"
+      },
+      {
+        "title": "Calorie Counter - MyFitnessPal",
+        "image": "https://lh3.googleusercontent.com/WkGXEesGEu4ayZctjADlDKdscS3Ve1hmoVzhHQYh9NuK9QpDA3Rx6ae3jg7VH2dFZqk=s180-rw",
+        "id": "com.myfitnesspal.android"
+      }
+
+    ],
+
+    "items": [
+      {
+        "title": "How to get a Hotstar premium free trial?",
+        "image": "https://cdn.iconscout.com/icon/free/png-128/hotstar-new-logo-2172931-1820229.png"
+      },
+      {
+        "title": " Hotstar Premium Free Account  -  Watch IPL 2020 Online On Hotstar ",
+        "image": "https://cdn.iconscout.com/icon/free/png-128/hotstar-new-logo-2172931-1820229.png"
+      },
+      {
+        "title": "1. Watch Disney+ Hotstar Premium free - With Jio Tv ",
+        "image": "https://cdn.iconscout.com/icon/free/png-128/hotstar-new-logo-2172931-1820229.png"
+      },
+      {
+        "title": "How to get Hotstar Premium for free with Jio? ",
+        "image": "https://cdn.iconscout.com/icon/free/png-128/hotstar-new-logo-2172931-1820229.png"
+      },
+      {
+        "title": " Get Disney+ Hotstar Free with Jio Recharge ",
+        "image": "https://cdn.iconscout.com/icon/free/png-128/hotstar-new-logo-2172931-1820229.png"
+      },
+      {
+        "title": "2. Get Disney+ Hotstar Free with Airtel Recharge ",
+        "image": "https://cdn.iconscout.com/icon/free/png-128/hotstar-new-logo-2172931-1820229.png"
+      },
+            {
+        "title": "Stream Hotstar Premium free - With Airtel Tv  ",
+        "image": "https://cdn.iconscout.com/icon/free/png-128/hotstar-new-logo-2172931-1820229.png"
+      },
+                  {
+        "title": "5. Hotstar Premium Free Trial  ",
+        "image": "https://cdn.iconscout.com/icon/free/png-128/hotstar-new-logo-2172931-1820229.png"
+      },
+                  {
+        "title": "How to get Hotstar Premium Account for Free? ",
+        "image": "https://cdn.iconscout.com/icon/free/png-128/hotstar-new-logo-2172931-1820229.png"
+      }
+  
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Hotstar Guide 2021 :",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://images.freekaamaal.com/post_images/1601020427.png",
+        "text": "",
+        "isNative": "true"
+      }
+    ],
+
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Hotstar Guide 2021 :",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://images.freekaamaal.com/post_images/1601020427.png",
+        "text": "",
+        "isNative": "true"
+      }
+    ],
+
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Hotstar Guide 2021 :",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://images.freekaamaal.com/post_images/1601020427.png",
+        "text": "",
+        "isNative": "true"
+      }
+    ],
+
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://images.freekaamaal.com/post_images/1601020427.png",
+        "text": "",
+        "isNative": "true"
+      }
+    ],
+
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Hotstar Guide 2021 :",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://images.freekaamaal.com/post_images/1601020427.png",
+        "text": "",
+        "isNative": "false"
+      }
+    ],
+
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Hotstar Guide 2021 :",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://images.freekaamaal.com/post_images/1601020427.png",
+        "text": "",
+        "isNative": "true"
+      }
+    ],
+    
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Hotstar Guide 2021 :",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://images.freekaamaal.com/post_images/1601020427.png",
+        "text": "",
+        "isNative": "false"
+      }
+    ],
+
+    "content8": [
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Hotstar Guide 2021 :",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://images.freekaamaal.com/post_images/1601020427.png",
+        "text": "",
+        "isNative": "false"
+      }
+    ],
+
+    "content9": [
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "bold",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Hotstar Guide 2021 :",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#000000","style": "normal",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://images.freekaamaal.com/post_images/1601020427.png",
+        "text": "",
+        "isNative": "true"
+      }
+    ]
+
+
+  }
+  
+}
